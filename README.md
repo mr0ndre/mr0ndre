@@ -11,7 +11,7 @@ I focus on developing end-to-end data science projects, combining data analysis,
 - Exploratory Data Analysis, assisting clients to understand their business and provide actionable suggestions.
 - Applied Projects using real-world datasets
 
-# 💡 Fields of Interest: 
+# 💡Fields of Interest: 
 - Data Scientist
 - Machine Learning Engineer
 - Business Analyst 
