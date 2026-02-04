@@ -1,4 +1,4 @@
-## About me 
+# About me 
 👋 Hi, I’m a third year university student with major focused on Data Science. 
 
 I enjoy working on projects that involve exploratory data analysis, predictive modeling, and deploying models as interactive web apps.
